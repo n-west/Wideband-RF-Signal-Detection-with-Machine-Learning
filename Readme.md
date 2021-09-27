@@ -5,6 +5,7 @@ See the paper "A Wideband Signal Recognition Dataset" at SPAWC 2021 and https://
 If you use this please cite one of the following
 
 Examples
+```
 @inproceedings{west:wideband-tutorial,
   author =       {West, Nathan and Wagoner, Amy},
   title =        {Wideband RF Signal Detection with Machine Learning},
@@ -12,8 +13,10 @@ Examples
   year      = 2021,
   publisher = "GNU Radio TPC"
 }
+```
 
 Dataset
+```
 @inproceedings{west:wideband-dataset,
   author =       {West, Nathan and O'Shea Timothy and Roy, Tamoghna},
   title =        {A Wideband Signal Recognition Dataset},
@@ -21,8 +24,10 @@ Dataset
   year      = 2021,
   publisher = "IEEE"
 }
+```
 
 Spectral segmentation / IOU metrics / Dataset
+```
 @inproceedings{west:wideband-signal-localization,
   author =       {West, Nathan and Roy, Tamoghna and O'Shea Timothy},
   title =        {Wideband Signal Localization with Spectral Segmentation},
@@ -30,4 +35,4 @@ Spectral segmentation / IOU metrics / Dataset
   year      = 2020,
   publisher = "IEEE"
 }
-
+```
